@@ -38,6 +38,8 @@ The HelpJuice Frontend Challenge aimed to evaluate my skills in HTML, CSS, and J
 
 ## Screenshots
 
+![Mock GIF](https://i.ibb.co/8PxBPSR/purejs-mock.gif)
+
 You can view the replication of the provided screenshot by opening the `index.html` in a web browser.
 
 ## Conclusion
