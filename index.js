@@ -1,9 +1,3 @@
-//I have some notes here: since I use React mainly,
-//I forget some parts of pure JS so I know I have some rendering problems.
-//If in the real work environment I can use React, everything would be easier.
-//If not, just know that I need to develop my pure JS practice,
-//but please let me know if I can use React, thanks in advance
-
 const navLinks = [
   {
     name: "Getting Started",
